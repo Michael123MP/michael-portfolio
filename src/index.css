@@ -1,0 +1,18 @@
+@import "tailwindcss/preflight" layer(base);
+@import "tailwindcss/utilities" layer(utilities);
+@import "tailwindcss/theme" layer(theme);
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+  font-family: "Poppins", sans-serif;
+  background: #000000;
+}
+
+/* body {
+  @layer base {
+    font-family: ui-sans-serif, system-ui;
+    background-color: #000000;
+    color: #e5e5e5;
+  }
+} */
