@@ -46,7 +46,7 @@ const Hero = () => {
                     <motion.h2 variants={childVariants} className="pb-2 text-3xl tracking-tighter lg:text-6xl text-amber-400">Michael Pagardin</motion.h2>
                     <motion.span ariants={childVariants} className="bg-stone-300 bg-clip-text tracking-tight text-transparent mt-4 lg:text-3xl">I'm a <span>Programmer </span></motion.span>
                     <motion.p ariants={childVariants} className="my-1 max-w-lg py-7 text-xl text-justify">
-                        As a highly motivated candidate pursuing a bachelor’s degree in Information Systems. Michael is proficient in information technology field by mastering several programming languages. Michael has gained experienced in working at organizations and companies that honed his abilities in time management, communication skills, problem-solving skills, and project management skills
+                        As a highly motivated candidate pursuing a master's degree in Information Systems Management. Michael is proficient in information technology field by mastering several programming languages. Michael has gained experienced in working at organizations and companies that honed his abilities in time management, communication skills, problem-solving skills, and project management skills
                     </motion.p>
                     <div className="flex bg-a-500 gap-4 text-2xl mb-5">
                     <a className="text-amber-300" href="https://www.linkedin.com/in/michael-pagardin-a2314a176/">
